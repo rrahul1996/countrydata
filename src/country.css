@@ -1,0 +1,36 @@
+.country {
+    padding: 50px;
+}
+  
+.light {
+    width: 50px;
+    margin-bottom: 30px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+}
+
+.country-details div {
+    color: black;
+    margin: 20px 0;
+}
+.country-details div h2 {
+    font-size: 50px;
+    letter-spacing: 1px;
+}
+.country article .country-details div h5 {
+    font-weight: 600;
+    font-size: 18px;
+    margin: 10px 0;
+}
+.country article .country-details div h5 span {
+    font-weight: 300;
+}
+.country article .borders {
+    font-weight: 600;
+    display: flex;
+}
+.country article .borders ul {
+    margin: 0 10px;
+    background-color: rgb(150, 134, 134);
+}
